@@ -1,5 +1,4 @@
-### Hi there 👋
-![Technology Is Taking Over English Departments](https://github.com/anasooo/anasooo/assets/114515268/287db6ea-dfb8-41e3-b243-347f7006bbac)
+
 <!--
 **anasooo/anasooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
