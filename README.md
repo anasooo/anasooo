@@ -5,6 +5,5 @@
   </head>
   <body>
     <img src="https://github.com/anasooo/anasooo/blob/main/g0.gif" width=1200 height=600>
-    <h2>Pinned projects </h2>
   </body>
 </html>
